@@ -11,7 +11,7 @@
 
 <AnchorPane maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity" prefHeight="550.0"
             prefWidth="700.0" xmlns="http://javafx.com/javafx/11.0.1" xmlns:fx="http://javafx.com/fxml/1"
-            fx:controller="Controller">
+            fx:controller="com.mrfisherman.movietorrenthelper.Controller">
    <TextField fx:id="searcher" layoutX="14.0" layoutY="46.0" prefHeight="46.0" prefWidth="566.0"
               promptText="e.g. Inception"/>
    <Label layoutX="14.0" layoutY="25.0" text="Search by move titile:"/>
